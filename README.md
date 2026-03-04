@@ -1,4 +1,4 @@
-###👋 Hi, I’m Athenkosi
+Hi, I’m Athenkosi👋
 
 I’m a Software Engineer who loves building clean, efficient systems and solving complex problems creatively.
 
